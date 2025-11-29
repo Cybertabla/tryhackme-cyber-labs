@@ -1,0 +1,50 @@
+# 📘 TryHackMe Cyber Labs
+
+A collection of my TryHackMe cybersecurity labs, writeups, attack simulations, SOC analysis exercises, and Red Team learning journey.
+
+---
+
+## 🛡️ Skills Practiced
+- Network Scanning (Nmap, RustScan)  
+- Enumeration (Gobuster, Enum4Linux, SMB, FTP)  
+- Linux Privilege Escalation  
+- WiFi Security (Aircrack-ng, Monitor Mode, WPA2 Cracking)  
+- Exploitation & Payload Development  
+- OSINT Techniques  
+- Phishing & Social Engineering  
+- SIEM & SOC Analysis  
+- Log Investigation (Splunk)  
+
+---
+
+## 📂 Lab Writeups
+
+| Room Name | Topic | Status |
+|----------|--------|--------|
+| **WiFi Hacking 101** | WPA2 handshake capture & cracking | ✔️ Completed |
+| **Basic Pentesting** | Enumeration + Exploitation | ✔️ Completed |
+| **Anonymous** | FTP, Nmap, Initial Foothold, PrivEsc | 🔄 In Progress |
+| **Phishing** | Email spoofing, lure creation | ✔️ Completed |
+| **OSINT Dojo** | Twitter tracing, dark-web analysis | ✔️ Completed |
+| **Blue Team Labs** | SIEM logs, detections | 🔄 In Progress |
+
+---
+
+## 🔧 Tools Used
+- Kali Linux  
+- Aircrack-ng Suite  
+- Nmap / RustScan  
+- Gobuster  
+- Hydra  
+- Wireshark  
+- Enum4Linux  
+- Metasploit  
+- OSINT Framework  
+- Splunk  
+
+---
+
+## 📸 Screenshots
+(Add your lab screenshots here)
+
+
